@@ -8,3 +8,5 @@ vorher noch pygame modul installieren, also in der CMD einmal
 py -m pip install pygame
 
 oder so ähnlich eingeben uwu
+
+outtakes.py is nicht so wichtig, also könnt ihr auch weghauen den mist
