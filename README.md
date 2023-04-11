@@ -12,7 +12,11 @@ oder so ähnlich eingeben uwu
 outtakes.py is nicht so wichtig, also könnt ihr auch weghauen den mist.
 
 STEUERUNG:
+
 Pfeiltasten links/rechts - Block nach links/rechts moven
+
 Q - Block nach links drehen
+
 W - Block nach rechts drehen
+
 E - togglen von schnellerem Fallen des Blocks
